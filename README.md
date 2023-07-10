@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+## My Skills
+[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,cs,octave,java,kotlin,idea,ps,blender,unity,selenium,wordpress,md,regex&theme=dark&perline=5)](https://skillicons.dev)
+
 <!--
 **telur4/telur4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
