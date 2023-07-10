@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## My Skills
-[![My Skills](https://skillicons.dev/icons?i=ae,arduino,cpp,css,discord,docker,flutter,gatsby,github,haskell,html,ai,instagram,java,js,jquery,laravel,md,matlab,mysql,nodejs,ps,php,pr,processing,py,react,regex,sass,tensorflow,twitter,ts,unity,unreal,visualstudio,vscode,wordpress,xd&theme=dark&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ae,arduino,cpp,css,discord,docker,flutter,gatsby,github,haskell,html,ai,instagram,java,js,jquery,laravel,md,matlab,mysql,nodejs,ps,php,pr,processing,py,raspberrypi,react,regex,sass,stackoverflow,tensorflow,twitter,ts,unity,unreal,visualstudio,vscode,wordpress,xd&theme=dark&perline=5)](https://skillicons.dev)
 
 <!--
 **telur4/telur4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
